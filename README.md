@@ -6,7 +6,7 @@ Kindly choose one of these projects
 # Note
 Your project must meet these criteria
   - Clean code
-  - connect to external API
+  - Connect to external API
   - React Testing
   - Deployment to netlify or any other free hosting
   - Responsiveness
